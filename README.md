@@ -91,4 +91,4 @@ Impala docs for more information.
 ---
 
 Released under the MIT license. Free for any use. ©
-[Matt Kane](https://github.com/ascorbic) 2023.
+
